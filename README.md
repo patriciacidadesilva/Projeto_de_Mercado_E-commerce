@@ -37,7 +37,8 @@ Uma empresa de e-commerce está abrindo sua operação digital e precisa usar da
 
 **O que você aprende:** A pensar como analista de dados usando SQL.
 
-**Material:** [Aula 1 - SQL & Analytics](./aulas/aula-01-sql/)
+**Material:** [SQL & Analytics](./aula-01-sql/)
+
 
 ---
 
@@ -50,7 +51,7 @@ Uma empresa de e-commerce está abrindo sua operação digital e precisa usar da
 
 **Entrega do dia:** Um dataset unificado e confiável.
 
-**Material:** [Aula 2 - Python & Ingestão](./aulas/aula-02-python/) *(em breve)*
+**Material:** [Aula 2 - Python & Ingestão](./aula-02-python/) 
 
 ---
 
@@ -63,7 +64,7 @@ Uma empresa de e-commerce está abrindo sua operação digital e precisa usar da
 
 **Frase-chave:** Dados bons precisam escalar.
 
-**Material:** [Aula 3 - Engenharia de Dados](./aulas/aula-03-engenharia/) *(em breve)*
+**Material:** [Aula 3 - Engenharia de Dados](./aula-03-engenharia/) 
 
 ---
 
@@ -76,7 +77,7 @@ Uma empresa de e-commerce está abrindo sua operação digital e precisa usar da
 
 **Exemplo:** "Esse produto está mais caro que o mercado."
 
-**Material:** [Aula 4 - Inteligência Artificial](./aulas/aula-04-ia/) *(em breve)*
+**Material:** [Aula 4 - Inteligência Artificial](.aula-04-ia/) *(em breve)*
 
 ---
 
@@ -119,7 +120,7 @@ Os arquivos serão criados na pasta `data/`:
 
 ### Passo 2: Começar a Aula 1
 
-Siga as instruções completas em: **[Aula 1 - SQL & Analytics](./aulas/aula-01-sql/README.md)**
+Siga as instruções completas em: **[Aula 1 - SQL & Analytics](./aula-01-sql/README_AULA_1.md)**
 
 **Resumo rápido:**
 1. Importe os CSVs em um banco SQL (SQLite ou PostgreSQL)
@@ -450,7 +451,7 @@ chmod 755 data
 ### Para Começar a Imersão:
 
 1. **Gere os datasets:** Execute `python generate_datasets.py`
-2. **Comece o Dia 1:** Siga as instruções em [Aula 1 - SQL & Analytics](./aulas/aula-01-sql/README.md)
+2. **Comece o Dia 1:** Siga as instruções em [Aula 1 - SQL & Analytics](./aula-01-sql/README_AULA_1.md)
 3. **Execute os exemplos:** 21 exemplos SQL em ordem progressiva
 4. **Pratique:** Faça os exercícios práticos
 5. **Avance para Dia 2:** Python & Ingestão de Dados
@@ -480,10 +481,10 @@ Cada query, cada script, cada pipeline que você construir deve responder uma pe
 
 ## 📚 Material de Apoio
 
-- **[Aula 1 - SQL & Analytics](./aulas/aula-01-sql/README.md)** - Guia completo do primeiro dia
-- **[KPIs da Aula 1](./aulas/aula-01-sql/KPIS.md)** - Lista completa de KPIs e perguntas
-- **[Estrutura dos Dados](./aulas/aula-01-sql/ESTRUTURA_DADOS.md)** - Documentação detalhada
-- **[Queries de Exemplo](./aulas/aula-01-sql/queries/README.md)** - 21 exemplos SQL com explicações
+- **[Aula 1 - SQL & Analytics](./aula-01-sql/README.md)** - Guia completo do primeiro dia
+- **[KPIs da Aula 1](./aula-01-sql/KPIS.md)** - Lista completa de KPIs e perguntas
+- **[Estrutura dos Dados](./aula-01-sql/ESTRUTURA_DADOS.md)** - Documentação detalhada
+- **[Queries de Exemplo](./aula-01-sql/queries/README.md)** - 21 exemplos SQL com explicações
 
 ---
 
