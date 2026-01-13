@@ -481,7 +481,7 @@ Cada query, cada script, cada pipeline que você construir deve responder uma pe
 
 ## 📚 Material de Apoio
 
-- **[Aula 1 - SQL & Analytics](./aula-01-sql/README.md)** - Guia completo do primeiro dia
+- **[Aula 1 - SQL & Analytics](./aula-01-sql/README_AULA_1.md)** - Guia completo do primeiro dia
 - **[KPIs da Aula 1](./aula-01-sql/KPIS.md)** - Lista completa de KPIs e perguntas
 - **[Estrutura dos Dados](./aula-01-sql/ESTRUTURA_DADOS.md)** - Documentação detalhada
 - **[Queries de Exemplo](./aula-01-sql/queries/README.md)** - 21 exemplos SQL com explicações
