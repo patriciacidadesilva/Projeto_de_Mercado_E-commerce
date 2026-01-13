@@ -1,5 +1,5 @@
 -- ============================================
--- EXEMPLO 9: HAVING com JOIN
+-- EXEMPLO 9: HAVING com JOINs
 -- ============================================
 -- Conceito: Filtrar resultados após agrupamento
 -- Pergunta: Quais categorias geram mais de R$ 50.000 em receita?
