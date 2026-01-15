@@ -1,10 +1,10 @@
-# 🚀 Projeto Jornada de Dados
+# 🚀 Projeto de Dados
 
 ## 📋 Sobre o Projeto
 
-Este é o **projeto prático da Jornada de Dados**, uma experiência completa de 4 dias onde você vai construir um projeto real de dados, do zero à decisão com IA.
+Este é um **projeto prático**, uma experiência completa de 4 dias onde vamos construir um projeto real de dados, do zero à decisão com IA.
 
-**Em 4 dias, você vai aprender:**
+**Em 4 dias, vamos aprender:**
 - **Dia 1:** SQL & Analytics
 - **Dia 2:** Python & Ingestão de Dados
 - **Dia 3:** Engenharia de Dados
