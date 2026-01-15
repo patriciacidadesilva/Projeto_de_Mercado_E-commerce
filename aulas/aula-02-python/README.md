@@ -1,6 +1,6 @@
-# 🐍 Dia 2: Python & Ingestão de Dados | Jornada de Dados
+# 🐍 Dia 2: Python & Ingestão de Dados 
 
-Bem-vindo ao **segundo dia da imersão Jornada de Dados**! Hoje você vai aprender Python para trabalhar com dados, focando em **ingestão** - o processo de coletar dados de diferentes fontes e prepará-los para análise.
+Bem-vindo ao **segundo dia**! Hoje você vamos aprender Python para trabalhar com dados, focando em **ingestão** - o processo de coletar dados de diferentes fontes e prepará-los para análise.
 
 ---
 
