@@ -1,6 +1,6 @@
-# 🤖 Dia 4: n8n & Agentes de IA | Jornada de Dados
+# 🤖 Dia 4: n8n & Agentes de IA 
 
-Bem-vindo ao **quarto dia da imersão Jornada de Dados**! Hoje você vai aprender a criar **Agentes de IA** usando **n8n**, permitindo que usuários conversem com seu banco de dados de forma natural através do Telegram.
+Bem-vindo ao **quarto dia**! Hoje vamos aprender a criar **Agentes de IA** usando **n8n**, permitindo que usuários conversem com seu banco de dados de forma natural através do Telegram.
 
 ---
 
