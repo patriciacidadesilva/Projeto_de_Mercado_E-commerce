@@ -1,6 +1,6 @@
-# 📚 Dia 1: SQL & Analytics | Jornada de Dados
+# 📚 Dia 1: SQL & Analytics 
 
-Bem-vindo ao **primeiro dia da imersão Jornada de Dados**! Hoje você vai aprender SQL do zero, pensando como um analista de dados que precisa responder perguntas de negócio.
+Bem-vindo ao **primeiro dia**! Hoje você vamos aprender SQL do zero, pensando como um analista de dados que precisa responder perguntas de negócio.
 
 ---
 
