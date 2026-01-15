@@ -1,6 +1,6 @@
-# 🏗️ Dia 3: dbt & Camada Analítica | Jornada de Dados
+# 🏗️ Dia 3: dbt & Camada Analítica 
 
-Bem-vindo ao **terceiro dia da imersão Jornada de Dados**! Hoje você vai aprender a criar uma **camada analítica profissional** usando **dbt** (data build tool), seguindo as melhores práticas da indústria.
+Bem-vindo ao **terceiro dia**! Hoje vamos aprender a criar uma **camada analítica profissional** usando **dbt** (data build tool), seguindo as melhores práticas da indústria.
 
 ---
 
