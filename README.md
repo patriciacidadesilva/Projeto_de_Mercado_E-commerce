@@ -25,7 +25,7 @@ Uma empresa de e-commerce está abrindo sua operação digital e precisa usar da
 
 ---
 
-## 📚 As 4 Aulas da Imersão
+## 📚 As 4 Aulas
 
 ### 📊 Dia 1: SQL & Analytics
 **Objetivo:** Entender o negócio com SQL
@@ -64,7 +64,7 @@ Uma empresa de e-commerce está abrindo sua operação digital e precisa usar da
 
 **Frase-chave:** Dados bons precisam escalar.
 
-**Material:** [Aula 3 - Engenharia de Dados](./aulas/aula-03-engenharia/) 
+**Material:** [Aula 3 - Engenharia de Dados](./aulas/aula-03-dbt/) 
 
 ---
 
@@ -77,7 +77,7 @@ Uma empresa de e-commerce está abrindo sua operação digital e precisa usar da
 
 **Exemplo:** "Esse produto está mais caro que o mercado."
 
-**Material:** [Aula 4 - Inteligência Artificial](./aulas/aula-04-ia/) 
+**Material:** [Aula 4 - Inteligência Artificial](./aulas/aula-04-n8n/) 
 ---
 
 ## 🎲 Os 4 Datasets do Projeto
@@ -482,8 +482,8 @@ Cada query, cada script, cada pipeline que você construir deve responder uma pe
 
 - **[Aula 1 - SQL & Analytics](./aulas/aula-01-sql/README.md)** - Guia completo do primeiro dia
 - **[KPIs da Aula 1](./aulas/aula-01-sql/KPIS.md)** - Lista completa de KPIs e perguntas
-- **[Estrutura dos Dados](./aulas/aula-01-sql/ESTRUTURA_DADOS.md)** - Documentação detalhada
-- **[Queries de Exemplo](./aulas/aula-01-sql/queries/README.md)** - 21 exemplos SQL com explicações
+- **[Base de Dados](./aulas/aula-01-sql/data)** - Base de Dados Utilizados na aula
+- **[Queries de Exemplo](./aulas/aula-01-sql)** - 21 exemplos SQL com explicações
 
 ---
 
